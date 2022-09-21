@@ -66,7 +66,7 @@ The Brawl-o-Seum is effectively a crafting membership key. These limited number 
 
 
 
-Their is currently one announced PvP feature in active development at this time. This version of PvP feature utilizes a new card battler mechanic exclusive to Blockchain Brawlers. It was designed and balanced by [Richard Garfield](https://en.wikipedia.org/wiki/Richard_Garfield), the creator of [Magic: The Gathering.](https://en.wikipedia.org/wiki/Magic:_The_Gathering) 
+There is currently one announced PvP feature in active development at this time. This version of PvP feature utilizes a new card battler mechanic exclusive to Blockchain Brawlers. It was designed and balanced by [Richard Garfield](https://en.wikipedia.org/wiki/Richard_Garfield), the creator of [Magic: The Gathering.](https://en.wikipedia.org/wiki/Magic:_The_Gathering) 
 
 This feature is in varying states of progress and is intended to be live in a full release production environment on October 4th, 2022. 
 
