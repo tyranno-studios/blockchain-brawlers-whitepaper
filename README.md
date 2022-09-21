@@ -7,13 +7,15 @@ _NOTE: This is a living document. Please check regularly for updates!_ *For answ
 - [Design Principles](#design-principles)
 - [The Phases of The Game](#the-phases-of-the-game)
 -  [The Mining Phase](#the-mining-phase)
-- [The Crafting Phase/BRAWL-O-SEUM](#the-crafting-phase/brawl-o-seum) 
+- [The Crafting Phase: BRAWL-O-SEUM](#the-crafting-phase-brawl-o-seum) 
 - [The PvP Phase](#the-pvp-phase) 
 	- [Beta Testing](#beta-testing) 
-- [Deprecated Items That No Longer Have Value](#deprecated-items-that-no-longer-have-value)
+- [Deprecated Items That No Longer Have Utility](#deprecated-items-that-no-longer-have-utility)
   * [Rings](#rings)
   * [Gear](#gear)
+- [Promotional Items](#promotional-items)
   * [Golden Battletags](#golden-battletags)
+  * [Mining Badge](#mining-badge)
   
 # Our Beliefs
 
@@ -52,7 +54,7 @@ The Mining Phase ran from March 30th, 2022 to August 1st, 2022. This was were ex
 
 Once the token inventory was exhausted the ability to mine the currency via this farming interactivity was ended. It will not resume ever again. 
 
-## The Crafting Phase/BRAWL-O-SEUM
+## The Crafting Phase: BRAWL-O-SEUM
 The Crafting Phase began on September 21st, 2022. If a player is in possession of a [Brawl-o-Seum](https://wax.atomichub.io/market?collection_name=bcbrawlers&order=asc&schema_name=land&sort=price&symbol=WAX) NFT they are able to utilize $BRWL tokens to craft every asset required to play every version of PvP that does or will exist in perpetuity. 
 
 The Brawl-o-Seum is effectively a crafting membership key. These limited number of players will be in charge of producing content for the masses that want to enter the game. There are only 1,100 "B-o-S" NFT crafting passes in existence. They come in two levels of rarity. The Diamond version allows for 25 single asset packs to be crafted within a 24 hour window. The Platinum version allows for 10 single asset packs to be crafted a day. To learn more about how the Brawl-o-Seum works and review the level designs that benefit from mutable data, here is a comprehensive [Brawl-o-Seum level design and overview.](https://medium.com/blockchain-brawlers/a-deep-dive-into-brawl-o-seum-leveling-design-740efd3e780a) To understand the user interface flow you can [read this article.](https://medium.com/blockchain-brawlers/blockchain-brawlers-brawl-o-seum-crafting-walkthrough-b0a514046ffb) 
@@ -104,9 +106,9 @@ That gear was as follows:
 
 There were several items that were given away or used as keys to grant access to sales and promotional activities. The below listed items no longer serve their original purpose and merely maintain sentimental value 
 
- - [Golden Battletag](https://wax.atomichub.io/explorer/template/bcbrawlers/432795)
+ #### [Golden Battletags](https://wax.atomichub.io/explorer/template/bcbrawlers/432795)
  
- - [Mining Badge](https://wax.atomichub.io/market?collection_name=bcbrawlers&order=desc&schema_name=promo&sort=created&symbol=WAX)
+ #### [Mining Badge](https://wax.atomichub.io/market?collection_name=bcbrawlers&order=desc&schema_name=promo&sort=created&symbol=WAX)
 
 # Player vs. Player Asset Requirements
 
