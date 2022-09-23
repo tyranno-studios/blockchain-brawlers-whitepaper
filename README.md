@@ -50,7 +50,7 @@ Currently available to be played in a browser we will soon add a download Mac an
 
 # The Phases of The Game
 ## The Mining Phase
-The Mining Phase ran from March 30th, 2022 to August 1st, 2022. This was were existing players we able to mine the 1B  fungible [$BRWL tokens](https://wax.alcor.exchange/trade/brwl-brawlertoken_wax-eosio.token) if they possessed a [Series 1 Brawler NFT](https://wax.atomichub.io/market?collection_name=bcbrawlers&order=asc&schema_name=series1&sort=price&symbol=WAX) and a Ring. 
+The Mining Phase ran from March 30th, 2022 to August 1st, 2022. This was were existing players we able to mine the 1B fungible [$BRWL tokens (Alcor)](https://wax.alcor.exchange/trade/brwl-brawlertoken_wax-eosio.token) or [$BRWL tokens (TACO Swap)](https://swap.tacocrypto.io/swap?output=WAX-eosio.token&input=BRWL-brawlertoken) if they possessed a [Series 1 Brawler NFT](https://wax.atomichub.io/market?collection_name=bcbrawlers&order=asc&schema_name=series1&sort=price&symbol=WAX) and a Ring. 
 
 Once the token inventory was exhausted the ability to mine the currency via this farming interactivity was ended. It will not resume ever again. 
 
@@ -83,7 +83,7 @@ To understand all of the assets required to actually compete in the PvP portion 
 
 ## Rings
 
-There are four rings that were used during the "Mining Phase". This is where you would place Brawlers to brawl to possibly earn a [Gold NFT](https://virl.com/collection/asset.a/bcbrawlers) and get some $BRWL. 
+There are four rings that were used during the "Mining Phase". This is where you would place Brawlers to brawl to possibly earn a [Gold NFT](https://virl.com/collection/asset.a/bcbrawlers?search=Gold) and get some $BRWL. 
 
 Those rings were as follows:
 
@@ -92,7 +92,7 @@ Those rings were as follows:
  - [The Steel Cage (Rare) Ring](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Rare&order=asc&schema_name=ring&sort=price&symbol=WAX)
  - [The Deathmatch (Legendary) Ring](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Legendary&order=asc&schema_name=ring&sort=price&symbol=WAX)
 ## Gear
-There are five pieces of gear that were used during the "Mining Phase". These items would be equipped to Brawlers to increase the chance of earning a [Gold NFT](https://virl.com/collection/asset.a/bcbrawlers) and increase $BRWL earned per match.
+There are five pieces of gear that were used during the "Mining Phase". These items would be equipped to Brawlers to increase the chance of earning a [Gold NFT](https://virl.com/collection/asset.a/bcbrawlers?search=Gold) and increase $BRWL earned per match.
 
 That gear was as follows:
 
@@ -106,9 +106,9 @@ That gear was as follows:
 
 There were several items that were given away or used as keys to grant access to sales and promotional activities. The below listed items no longer serve their original purpose and merely maintain sentimental value 
 
- #### [Golden Battletags](https://wax.atomichub.io/explorer/template/bcbrawlers/432795)
+ #### [Golden Battle Tags](https://wax.atomichub.io/market?collection_name=bcbrawlers&order=asc&search=golden%20battle%20tag&sort=price&symbol=WAX)
  
- #### [Mining Badge](https://wax.atomichub.io/market?collection_name=bcbrawlers&order=desc&schema_name=promo&sort=created&symbol=WAX)
+ #### [Mining Badge](https://wax.atomichub.io/market?collection_name=bcbrawlers&order=asc&schema_name=promo&sort=price&symbol=WAX)
 
 # Player vs. Player Asset Requirements
 
@@ -119,7 +119,7 @@ In the PvP mode coming out Fall '22 you will play a card battler as mentioned ab
 Below is an accounting of the minimum items you will need to wage war in the squared circle. 
 
 Must Haves:
-(1) NFT Brawler (including but not limited to) - [Mike Yellerbelly](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Artifact&order=asc&schema_name=series1&sort=price&symbol=WAX), [Scotty Wideye](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Common&order=asc&schema_name=series1&sort=price&symbol=WAX), [Barry Greenhorn](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Uncommon&order=asc&schema_name=series1&sort=price&symbol=WAX), [Johnny Butterfinger](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Rare&order=asc&schema_name=series1&sort=price&symbol=WAX), [Colt Tenderfoot](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Epic&order=asc&schema_name=series1&sort=price&symbol=WAX), [Rusty Klutz](https://wax.atomichub.io/market/sale/89934148), [Ric Flair](https://wax.atomichub.io/market/sale/90085842), or any of our [legendary NFT's](https://wax.atomichub.io/market/sale/85365924) that are 1 of 1's. 
+(1) NFT Brawler (including but not limited to) - [Mike Yellerbelly](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Artifact&order=asc&schema_name=series1&sort=price&symbol=WAX), [Scotty Wideye](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Common&order=asc&schema_name=series1&sort=price&symbol=WAX), [Barry Greenhorn](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Uncommon&order=asc&schema_name=series1&sort=price&symbol=WAX), [Johnny Butterfinger](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Rare&order=asc&schema_name=series1&sort=price&symbol=WAX), [Colt Tenderfoot](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Epic&order=asc&schema_name=series1&sort=price&symbol=WAX), [Rusty Klutz](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Legendary&order=desc&schema_name=series1&search=rusty&sort=created&symbol=WAX), [Ric Flair](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Legendary&order=asc&schema_name=series1&search=Flair&sort=price&symbol=WAX), or any of our [Legendary NFT's](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Legendary&order=asc&schema_name=series1&sort=price&symbol=WAX) that are 1 of 1's. 
 
 ## How to Take Part in the PvP Phase
 
