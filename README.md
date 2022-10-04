@@ -5,6 +5,7 @@ _NOTE: This is a living document. Please check regularly for updates!_ *For answ
 ## Table of Contents
 - [Our Beliefs](#our-beliefs)
 - [Design Principles](#design-principles)
+- [Player vs Player Asset Requirements](#player-vs-player-asset-requirements)
 - [The Phases of The Game](#the-phases-of-the-game)
 -  [The Mining Phase](#the-mining-phase)
 - [The Crafting Phase: BRAWL-O-SEUM](#the-crafting-phase-brawl-o-seum) 
