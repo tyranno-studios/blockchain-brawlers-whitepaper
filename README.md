@@ -60,7 +60,7 @@ Below is an accounting of the minimum items you will need to wage war in the squ
 Must Haves:
 (1) NFT Brawler (including but not limited to) - [Mike Yellerbelly](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Artifact&order=asc&schema_name=series1&sort=price&symbol=WAX), [Scotty Wideye](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Common&order=asc&schema_name=series1&sort=price&symbol=WAX), [Barry Greenhorn](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Uncommon&order=asc&schema_name=series1&sort=price&symbol=WAX), [Johnny Butterfinger](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Rare&order=asc&schema_name=series1&sort=price&symbol=WAX), [Colt Tenderfoot](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Epic&order=asc&schema_name=series1&sort=price&symbol=WAX), [Rusty Klutz](https://wax.atomichub.io/market/sale/89934148), [Ric Flair](https://wax.atomichub.io/market/sale/90085842), or any of our [legendary NFT's](https://wax.atomichub.io/market/sale/85365924) that are 1 of 1's. 
 
-(1) Deck of playing cards numbered 1 thru 8. 
+(1) Deck of playing cards numbered 1 thru 8. Go [her](https://wax.atomichub.io/market?collection_name=bcbrawlers&order=asc&schema_name=cards&sort=price&symbol=WAX) to acquire your eight deck cards
 
 ## How to Take Part in the PvP Phase
 
