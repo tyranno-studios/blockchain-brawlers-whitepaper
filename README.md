@@ -53,12 +53,14 @@ Currently available to be played in a browser we will soon add a download Mac an
 
 While the list of needs is not exhaustive to compete in head to head play, we thought they were vital enough that it warranted it's own headline and detailed overview. 
 
-In the PvP mode coming out Fall '22 you will play a card battler as mentioned above. This means you will need to have a Brawler NFT, some playing cards, and the requisite set of moves of your own choosing. 
+In the PvP mode coming out Fall '22 you will play a card battler as mentioned above. This means you will need to have a Brawler NFT, some playing cards(also NFTs), and the requisite set of moves (also NFTs) of your own choosing. 
 
-Below is an accounting of the minimum items you will need to wage war in the squared circle. 
+Below is an accounting of the minimum items you will need to wage war in the squared circle and where to go and acquire them. 
 
 Must Haves:
 (1) NFT Brawler (including but not limited to) - [Mike Yellerbelly](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Artifact&order=asc&schema_name=series1&sort=price&symbol=WAX), [Scotty Wideye](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Common&order=asc&schema_name=series1&sort=price&symbol=WAX), [Barry Greenhorn](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Uncommon&order=asc&schema_name=series1&sort=price&symbol=WAX), [Johnny Butterfinger](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Rare&order=asc&schema_name=series1&sort=price&symbol=WAX), [Colt Tenderfoot](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Epic&order=asc&schema_name=series1&sort=price&symbol=WAX), [Rusty Klutz](https://wax.atomichub.io/market/sale/89934148), [Ric Flair](https://wax.atomichub.io/market/sale/90085842), or any of our [legendary NFT's](https://wax.atomichub.io/market/sale/85365924) that are 1 of 1's. 
+
+(1) Deck of playing cards numbered 1 thru 8. 
 
 ## How to Take Part in the PvP Phase
 
