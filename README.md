@@ -64,10 +64,12 @@ Must Haves:
 
 
 
-(1) Common Attack move. Go [here](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.type=Attack&order=desc&schema_nam) 
+(1) Common Attack move. Go [here](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.type=Attack&order=desc&schema_nam) to acquire a common attack
 
 
-(1) Taunt move. Go [here](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.type=Taunt&order=asc&schema_name=moves&sort=price&symbol=WAX)
+(1) Taunt move. Go [here](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.type=Taunt&order=asc&schema_name=moves&sort=price&symbol=WAX) to acquire a common taunt
+
+(1) Finisher move. Go [here](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.type=Finishing%20Move&order=asc&schema_name=moves&sort=price&symbol=WAX)
 
 ## How to Take Part in the PvP Phase
 
