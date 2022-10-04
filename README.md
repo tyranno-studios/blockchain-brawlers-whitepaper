@@ -48,6 +48,21 @@ To reach our player adoption goals, Blockchain Brawlers has to be very familiar 
 
 Currently available to be played in a browser we will soon add a download Mac and PC client via the Epic Store, along with mobile apps to be found in the App Store as well as on Google Play coming in late 2022. 
 
+# Player vs. Player Asset Requirements
+
+While the list of needs is not exhaustive to compete in head to head play, we thought they were vital enough that it warranted it's own headline and detailed overview. 
+
+In the PvP mode coming out Fall '22 you will play a card battler as mentioned above. This means you will need to have a Brawler NFT, some playing cards, and the requisite set of moves of your own choosing. 
+
+Below is an accounting of the minimum items you will need to wage war in the squared circle. 
+
+Must Haves:
+(1) NFT Brawler (including but not limited to) - [Mike Yellerbelly](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Artifact&order=asc&schema_name=series1&sort=price&symbol=WAX), [Scotty Wideye](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Common&order=asc&schema_name=series1&sort=price&symbol=WAX), [Barry Greenhorn](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Uncommon&order=asc&schema_name=series1&sort=price&symbol=WAX), [Johnny Butterfinger](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Rare&order=asc&schema_name=series1&sort=price&symbol=WAX), [Colt Tenderfoot](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Epic&order=asc&schema_name=series1&sort=price&symbol=WAX), [Rusty Klutz](https://wax.atomichub.io/market/sale/89934148), [Ric Flair](https://wax.atomichub.io/market/sale/90085842), or any of our [legendary NFT's](https://wax.atomichub.io/market/sale/85365924) that are 1 of 1's. 
+
+## How to Take Part in the PvP Phase
+
+In order to participate in the PvP modes in Blockchain Brawlers just visit the site play.bcbrawlers.com and from there the onboarding into the user experience is self-explanatory.  
+
 # The Phases of The Game
 ## The Mining Phase
 The Mining Phase opened on March 30th, 2022 and concluded on August 1st, 2022. This was were players where able to mine the 1 billion fungible [$BRWL tokens](https://wax.alcor.exchange/trade/brwl-brawlertoken_wax-eosio.token) if they possessed a [Series 1 Brawler NFT](https://wax.atomichub.io/market?collection_name=bcbrawlers&order=asc&schema_name=series1&sort=price&symbol=WAX) and a Ring. 
@@ -61,9 +76,6 @@ The Brawl-o-Seum is effectively a crafting membership key. These limited number 
 
 # The PvP Phase
 ## Beta Testing
-
-
-
 
 
 There is currently one announced PvP feature in active development at this time. This version of PvP feature utilizes a new card battler mechanic exclusive to Blockchain Brawlers. It was designed and balanced by [Richard Garfield](https://en.wikipedia.org/wiki/Richard_Garfield), the creator of [Magic: The Gathering.](https://en.wikipedia.org/wiki/Magic:_The_Gathering) 
@@ -110,17 +122,4 @@ There were several items that were given away or used as keys to grant access to
  
  #### [Mining Badge](https://wax.atomichub.io/market?collection_name=bcbrawlers&order=desc&schema_name=promo&sort=created&symbol=WAX)
 
-# Player vs. Player Asset Requirements
-
-While the list of needs is not exhaustive to compete in head to head play, we thought they were vital enough that it warranted it's own headline and detailed overview. 
-
-In the PvP mode coming out Fall '22 you will play a card battler as mentioned above. This means you will need to have a Brawler NFT, some playing cards, and the requisite set of moves of your own choosing. 
-
-Below is an accounting of the minimum items you will need to wage war in the squared circle. 
-
-Must Haves:
-(1) NFT Brawler (including but not limited to) - [Mike Yellerbelly](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Artifact&order=asc&schema_name=series1&sort=price&symbol=WAX), [Scotty Wideye](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Common&order=asc&schema_name=series1&sort=price&symbol=WAX), [Barry Greenhorn](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Uncommon&order=asc&schema_name=series1&sort=price&symbol=WAX), [Johnny Butterfinger](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Rare&order=asc&schema_name=series1&sort=price&symbol=WAX), [Colt Tenderfoot](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.rarity=Epic&order=asc&schema_name=series1&sort=price&symbol=WAX), [Rusty Klutz](https://wax.atomichub.io/market/sale/89934148), [Ric Flair](https://wax.atomichub.io/market/sale/90085842), or any of our [legendary NFT's](https://wax.atomichub.io/market/sale/85365924) that are 1 of 1's. 
-
-## How to Take Part in the PvP Phase
-
-In order to participate in the PvP modes in Blockchain Brawlers just visit the site play.bcbrawlers.com and from there the onboarding into the user experience is self-explanatory.   
+ 
