@@ -51,9 +51,7 @@ Currently available to be played in a browser we will soon add a download Mac an
 
 # Player vs. Player Asset Requirements
 
-While the list of needs is not exhaustive to compete in head to head play, we thought they were vital enough that it warranted it's own headline and detailed overview. 
-
-In the PvP mode coming out Fall '22 you will play a card battler as mentioned above. This means you will need to have a Brawler NFT, some playing cards(also NFTs), and the requisite set of moves (also NFTs) of your own choosing. 
+In the PvP mode coming out at eh end of October you will take part in an original head to head card game. In order to do this you will need to have a Brawler NFT, some playing cards(also NFTs), and the requisite set of moves (also NFTs) of your own choosing. 
 
 Below is an accounting of the minimum items you will need to wage war in the squared circle and where to go and acquire them. 
 
