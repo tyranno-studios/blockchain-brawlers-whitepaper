@@ -50,7 +50,7 @@ Currently available to be played in a browser we will soon add a download Mac an
 
 # The Phases of The Game
 ## The Mining Phase
-The Mining Phase opened on March 30th, 2022 and concluded on August 1st, 2022. This was were players were able to mine the 1 billion fungible [$BRWL tokens](https://wax.alcor.exchange/trade/brwl-brawlertoken_wax-eosio.token) if they possessed a [Series 1 Brawler NFT](https://wax.atomichub.io/market?collection_name=bcbrawlers&order=asc&schema_name=series1&sort=price&symbol=WAX) and a Ring. 
+The Mining Phase opened on March 30th, 2022 and concluded on August 1st, 2022. This was were players where able to mine the 1 billion fungible [$BRWL tokens](https://wax.alcor.exchange/trade/brwl-brawlertoken_wax-eosio.token) if they possessed a [Series 1 Brawler NFT](https://wax.atomichub.io/market?collection_name=bcbrawlers&order=asc&schema_name=series1&sort=price&symbol=WAX) and a Ring. 
 
 Once the token inventory was exhausted the ability to mine the currency via this farming interactivity was ended. It will not resume ever again. 
 
