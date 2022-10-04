@@ -71,9 +71,9 @@ Must Haves:
 
 You can upgrade these moves by acquiring the proper materials for the upgrade recipe. All recipes for upgrading can be found in the game. There are 44 moves in all. They are 19 Attacks, 11 Taunts and 14 finishing moves ranging from common through Legendary. Players will always be required to play with this base of 12 items. How you updgrade and increase your arsenal of moves is up to you. The game does allow to set up multiple loadouts for a higher level of collecting and personalization. 
 
-## How to Take Part in the PvP Phase
+## Where to Take Part in the PvP Phase when it launches
 
-In order to participate in the PvP modes in Blockchain Brawlers just visit the site play.bcbrawlers.com and from there the onboarding into the user experience is self-explanatory.  
+In order to participate in the PvP modes in Blockchain Brawlers just visit the site [play.bcbrawlers.com](https://play.bcbrawlers.com/) and from there the onboarding into the user experience is self-explanatory.  
 
 # The Phases of The Game
 ## The Mining Phase
