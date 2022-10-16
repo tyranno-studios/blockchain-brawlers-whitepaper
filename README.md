@@ -101,6 +101,8 @@ For a gameplay rules overview [go here](https://medium.com/blockchain-brawlers/g
 
 To understand all of the assets required to actually compete in the PvP portion of this game be sure to read over the PvP Asset Require section down below. 
 
+## AI Based Brawler Coming Soon
+
 The additional announced PvP gamemode will be an AI based "King of the Ring" style competition called, "Brawl 4 All". This mode is being developed by Onessus of HodlGod fame and is being developed using the Unreal 5 engine. Forty players will sign up to compete with the brawler of their choice. The game will randomly select the first 8 players to start in the ring and one new Brawler will enter every 15 seconds. If a Brawler takes too much damage they will be unceramoniously tossed out of the ring over the top rope. This will eliminate them from the competition. The last man standing will win. 
 
 This mode is in active development and should be live before the end of the year. 
