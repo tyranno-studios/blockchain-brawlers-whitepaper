@@ -12,7 +12,7 @@ _NOTE: This is a living document. Please check regularly for updates!_ *For answ
 - [The PvP Phase](#the-pvp-phase) 
 	- [Beta Testing](#beta-testing) 
 	- [AI Based Brawler](#ai-based-brawler)
-- [Deprecated Items That No Longer Have Utility](#deprecated-items-that-no-longer-have-utility)
+- [Deprecated Items That No Longer Have Utility](#deprecated-items-that-have-no-utility)
   * [Rings](#rings)
   * [Gear](#gear)
 - [Promotional Items](#promotional-items)
@@ -108,7 +108,11 @@ The additional announced PvP gamemode will be an AI based "King of the Ring" sty
 
 This mode is in active development and should be live before the end of the year. 
 
-# Deprecated Items That No Longer Have Utility 
+# Promotional Items That Have Utility 
+
+test test test 
+
+# Deprecated Items That Have No Utility 
 *The below listed items will have no further in game use, as a result their value may be greatly diminished.*
 
 ## Rings
