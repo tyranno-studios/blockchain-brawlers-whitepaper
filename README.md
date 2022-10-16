@@ -12,7 +12,7 @@ _NOTE: This is a living document. Please check regularly for updates!_ *For answ
 - [The PvP Phase](#the-pvp-phase) 
 	- [Beta Testing](#beta-testing) 
 	- [AI Based Brawler](#ai-based-brawler)
-- [Deprecated Items That No Longer Have Utility](#deprecated-items-that-have-no-utility)
+- [Deprecated Items That Have No Utility](#deprecated-items-that-have-no-utility)
   * [Rings](#rings)
   * [Gear](#gear)
 - [Promotional Items](#promotional-items)
