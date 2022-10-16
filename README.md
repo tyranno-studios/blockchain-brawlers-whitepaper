@@ -79,7 +79,7 @@ In order to participate in the PvP modes in Blockchain Brawlers just visit the s
 ## The Mining Phase
 The Mining Phase opened on March 30th, 2022 and concluded on August 1st, 2022. This was were players where able to mine the 1 billion fungible [$BRWL tokens](https://wax.alcor.exchange/trade/brwl-brawlertoken_wax-eosio.token) if they possessed a [Series 1 Brawler NFT](https://wax.atomichub.io/market?collection_name=bcbrawlers&order=asc&schema_name=series1&sort=price&symbol=WAX) and a Ring. 
 
-Once the token inventory was exhausted the ability to mine the currency via this farming interactivity was ended. It will not resume ever again. 
+Once the token inventory was exhausted the ability to mine the currency via this farming interactivity concluded. It will not resume ever again. 
 
 ## The Crafting Phase: BRAWL-O-SEUM
 The Crafting Phase began on September 21st, 2022. If a player is in possession of a [Brawl-o-Seum](https://wax.atomichub.io/market?collection_name=bcbrawlers&order=asc&schema_name=land&sort=price&symbol=WAX) NFT they are able to utilize $BRWL tokens to craft every asset required to play every version of PvP that does or will exist in perpetuity. 
@@ -89,10 +89,9 @@ The Brawl-o-Seum is effectively a crafting membership key. These limited number 
 # The PvP Phase
 ## Beta Testing
 
+There are currently two announced PvP feature in active development at this time. The first version of PvP feature utilizes a new card battler mechanic exclusive to Blockchain Brawlers. It was designed and balanced by [Richard Garfield](https://en.wikipedia.org/wiki/Richard_Garfield), the creator of [Magic: The Gathering.](https://en.wikipedia.org/wiki/Magic:_The_Gathering) 
 
-There is currently one announced PvP feature in active development at this time. This version of PvP feature utilizes a new card battler mechanic exclusive to Blockchain Brawlers. It was designed and balanced by [Richard Garfield](https://en.wikipedia.org/wiki/Richard_Garfield), the creator of [Magic: The Gathering.](https://en.wikipedia.org/wiki/Magic:_The_Gathering) 
-
-This feature is in varying states of progress and is intended to be live in a full release production environment on October 4th, 2022. 
+This feature is in varying states of progress and the as noted above the WebGL version is available to be played right now. There is no wallet or cost to playing this test version. To access it directly you can go [here](https://play-best.babrawlers.com). The only requirement is you play on your desktop in a Chrome, Safari or Firefox browser. Others browsers may work, but are not officially supported. Mobile web is not currently supported. 
 
 The intention of the current PvP feature is akin to traditional esports gaming and skill based component. This is not a "Pay to Win" game. The best players will be the ones with the best execution of a strategy relative to the decisions of their opponent. 
 
@@ -101,6 +100,10 @@ At some point near the end of 2022 "League Play" and banding of players tied to 
 For a gameplay rules overview [go here](https://medium.com/blockchain-brawlers/gameplay-explained-how-does-the-pvp-card-game-designed-by-richard-garfield-work-e9b83e1c407e). For a video tutorial of how to play [go here](https://medium.com/blockchain-brawlers/blockchain-brawlers-summer-block-party-week-2-brings-the-heat-with-pvp-gameplay-first-look-d9f714b2237f). 
 
 To understand all of the assets required to actually compete in the PvP portion of this game be sure to read over the PvP Asset Require section down below. 
+
+The additional announced PvP gamemode will be an AI based "King of the Ring" style competition called, "Brawl 4 All". This mode is being developed by Onessus of HodlGod fame and is being developed using the Unreal 5 engine. Forty players will sign up to compete with the brawler of their choice. The game will randomly select the first 8 players to start in the ring and one new Brawler will enter every 15 seconds. If a Brawler takes too much damage they will be unceramoniously tossed out of the ring over the top rope. This will eliminate them from the competition. The last man standing will win. 
+
+This mode is in active development and should be live before the end of the year. 
 
 # Deprecated Items That No Longer Have Utility 
 *The below listed items will have no further in game use, as a result their value may be greatly diminished.*
