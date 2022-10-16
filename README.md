@@ -51,7 +51,7 @@ Currently available to be played in a browser we will soon add a download Mac an
 
 # Player vs. Player Asset Requirements
 
-In the PvP mode coming out at the end of October you will take part in an original head to head card game. In order to do this you will need to have a Brawler NFT, some playing cards(also NFTs), and the requisite set of moves (also NFTs) of your own choosing. 
+In the PvP mode coming out at the end of October you will take part in an original head to head card game. In order to do this you will need to have a Series 1 Brawler NFT, some playing cards(also NFTs), and the requisite set of moves (also NFTs) of your own choosing. 
 
 Below is an accounting of the minimum items you will need to wage war in the squared circle and where to go and acquire them. 
 
@@ -62,7 +62,7 @@ Must Haves:
 
 
 
-(1) Common Attack move. Go [here](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.type=Attack&order=desc&schema_nam) to acquire a common Attack
+(1) Common Attack move. Go [here](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.type=Attack&order=desc&schema_nam) to acquire a common Attack. You must always own at least one common attack. 
 
 
 (1) Taunt move. Go [here](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.type=Taunt&order=asc&schema_name=moves&sort=price&symbol=WAX) to acquire a common Taunt
