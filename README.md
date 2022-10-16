@@ -118,7 +118,7 @@ _This_ is a distributed NFT for all players wanting to try out Blockchain Brawle
 
 At any point during the ten day free trial period there will be an incentive available for these players to convert into playing the fully featured PvP game where play and rewards are no longer restricted.  
 
- ####[Pink Battletags]([https://wax.atomichub.io/explorer/template/bcbrawlers/432795](https://wax.atomichub.io/explorer/template/bcbrawlers/401084))
+ ##[Pink Battletags]([https://wax.atomichub.io/explorer/template/bcbrawlers/432795](https://wax.atomichub.io/explorer/template/bcbrawlers/401084))
 
 
 
