@@ -120,7 +120,7 @@ At any point during the ten day free trial period there will be an incentive ava
 
  ## [Pink Battletags]([https://wax.atomichub.io/explorer/template/bcbrawlers/432795](https://wax.atomichub.io/explorer/template/bcbrawlers/401084))
  
- Pink Battletags were given away to players for various reasons, mostly to recognize early support of the game. There are 155 in total ciruclation. Every month there is a random given away of the in game fungible token $BRWL to a limited number of players. There is also special whitelist inclusions and certain swag kit give aways these holders are eligible to receive. This program will come to an end December 31st, 2022. 
+ Pink Battletags were given away to players for various reasons, mostly to recognize early support of the game. There are 155 in total ciruclation. Every month there is a random give away of the in game fungible token $BRWL to a limited number of players. There is also special whitelist inclusions and certain swag kit give aways these holders are eligible to receive. This program will come to an end December 31st, 2022. 
 
 
 
