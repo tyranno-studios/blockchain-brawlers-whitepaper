@@ -62,14 +62,14 @@ Must Haves:
 
 
 
-(1) Common Attack move. Go [here](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.type=Attack&order=desc&schema_nam) to acquire a common Attack. You must always own at least one common attack. 
+(1) Common Attack move. Go [here](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.type=Attack&order=desc&schema_nam) to acquire a common Attack. You must always own at least one common attack
 
 
 (1) Taunt move. Go [here](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.type=Taunt&order=asc&schema_name=moves&sort=price&symbol=WAX) to acquire a common Taunt
 
 (1) Finisher move. Go [here](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.type=Finishing%20Move&order=asc&schema_name=moves&sort=price&symbol=WAX) to acquire your common Finisher move 
 
-You can upgrade these moves by acquiring the proper materials for the upgrade recipe. All recipes for upgrading can be found in the game. There are 44 moves in all. They are 19 Attacks, 11 Taunts and 14 finishing moves ranging from common through Legendary. Players will always be required to play with this base of 12 items. How you updgrade and increase your arsenal of moves is up to you. The game does allow to set up multiple loadouts for a higher level of collecting and personalization. 
+You can upgrade these moves by acquiring the proper materials for the upgrade recipe. All recipes for upgrading can be found in the game. There are 44 moves in all. There are 19 Attacks, 11 Taunts and 14 Finishing moves ranging from Common through Legendary. Players will always be required to play with this base of 12 items. How you updgrade and increase your arsenal of moves is up to you. The game does allow to set up multiple loadouts for a higher level of collecting and personalization. 
 
 ## Where to Take Part in the PvP Phase when it launches
 
