@@ -11,6 +11,7 @@ _NOTE: This is a living document. Please check regularly for updates!_ *For answ
 - [The Crafting Phase: BRAWL-O-SEUM](#the-crafting-phase-brawl-o-seum) 
 - [The PvP Phase](#the-pvp-phase) 
 	- [Beta Testing](#beta-testing) 
+	- [AI Based Brawler](#ai-based-brawler)
 - [Deprecated Items That No Longer Have Utility](#deprecated-items-that-no-longer-have-utility)
   * [Rings](#rings)
   * [Gear](#gear)
