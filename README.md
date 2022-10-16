@@ -116,9 +116,11 @@ This mode is in active development and should be live before the end of the year
 
 _This_ is a distributed NFT for all players wanting to try out Blockchain Brawlers for free for a very limited time. Owners possessing this NFT need only deposit it into their WAX Cloud Wallet. It will be burned upon deposit. Once deposited they will receive the required 12 starting items needed to try out the game. These twelve items will be a Brawler, an eight card deck, one Attack, Taunt and Finisher move, all common. These will not be NFTs and as such cannot be sold or traded. Nor can these players play and win anything in the head to head matches. Only the "Free to Try" exhibition room will be open to them to play a limit of 5 matches a day. After ten days the promotional assets will expire and be removed automatically from the player's wallet. They will also be watermarked so as to avoid any confusion. 
 
- ## [Pink Battletags]([https://wax.atomichub.io/explorer/template/bcbrawlers/432795](https://wax.atomichub.io/explorer/template/bcbrawlers/401084))
-
 At any point during the ten day free trial period there will be an incentive available for these players to convert into playing the fully featured PvP game where play and rewards are no longer restricted.  
+
+ ####[Pink Battletags]([https://wax.atomichub.io/explorer/template/bcbrawlers/432795](https://wax.atomichub.io/explorer/template/bcbrawlers/401084))
+
+
 
 # Deprecated Items That Have No Utility 
 *The below listed items will have no further in game use, as a result their value may be greatly diminished.*
