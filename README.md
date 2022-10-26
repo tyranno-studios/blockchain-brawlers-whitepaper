@@ -60,7 +60,7 @@ Currently available to be played in a browser we will soon add a download Mac an
 
 # Player vs. Player Asset Requirements
 
-In the PvP mode coming out Fall '22 you will take part in an original head to head card game. In order to do this you will need to have a Series 1 Brawler NFT, some playing cards(also NFTs), and the requisite set of moves (also NFTs) of your own choosing. 
+In the PvP mode coming out Fall '22 you will take part in an original head to head card game. In order to do this you will need twelve items. You must have a Series 1 Brawler NFT, some playing cards(also NFTs), and the requisite set of moves (also NFTs) of your own choosing. 
 
 Below is an accounting of the minimum items you will need to wage war in the squared circle and where to go and acquire them. 
 
@@ -79,6 +79,8 @@ Must Haves:
 (1) Finisher move. Go [here](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.type=Finishing%20Move&order=asc&schema_name=moves&sort=price&symbol=WAX) to acquire your common Finisher move 
 
 You can upgrade these moves by acquiring the proper materials for the upgrade recipe. All recipes for upgrading can be found in the game. There are 44 moves in all. There are 19 Attacks, 11 Taunts and 14 Finishing moves ranging from Common through Legendary. Players will always be required to play with this base of 12 items. How you updgrade and increase your arsenal of moves is up to you. The game does allow to set up multiple loadouts for a higher level of collecting and personalization. 
+
+To make getting started easier there will be "Starter Pack" bundles sold in game, on the vIRL Marketplace and on OpenSean. These bundle will be available on October 31st, 2022 and include all of the above listed required components. 
 
 ## Where to Take Part in the PvP Phase when it launches
 
@@ -100,7 +102,7 @@ The Brawl-o-Seum is effectively a crafting membership key. These limited number 
 
 There are currently two announced PvP feature in active development at this time. The first version of PvP feature utilizes a new card battler mechanic exclusive to Blockchain Brawlers. It was designed and balanced by [Richard Garfield](https://en.wikipedia.org/wiki/Richard_Garfield), the creator of [Magic: The Gathering.](https://en.wikipedia.org/wiki/Magic:_The_Gathering) 
 
-This feature is in varying states of progress and the as noted above the WebGL version is available to be played right now. There is no wallet or cost to playing this test version. To access it directly you can go [here](https://play-best.babrawlers.com). The only requirement is you play on your desktop in a Chrome, Safari or Firefox browser. Others browsers may work, but are not officially supported. Mobile web is not currently supported. 
+This feature is in varying states of progress and the as noted above the WebGL version is available to be played in a testing environment right now. There is no wallet or cost to playing this test version. To access it directly you can go [here](https://play-best.babrawlers.com). The only requirement is you play on your desktop in a Chrome, Safari or Firefox browser. Others browsers may work, but are not officially supported. Mobile web is not currently supported. 
 
 The intention of the current PvP feature is akin to traditional esports gaming and skill based component. This is not a "Pay to Win" game. The best players will be the ones with the best execution of a strategy relative to the decisions of their opponent. 
 
@@ -108,7 +110,7 @@ At some point near the end of 2022 "League Play" and banding of players tied to 
 
 For a gameplay rules overview [go here](https://medium.com/blockchain-brawlers/gameplay-explained-how-does-the-pvp-card-game-designed-by-richard-garfield-work-e9b83e1c407e). For a video tutorial of how to play [go here](https://medium.com/blockchain-brawlers/blockchain-brawlers-summer-block-party-week-2-brings-the-heat-with-pvp-gameplay-first-look-d9f714b2237f). 
 
-To understand all of the assets required to actually compete in the PvP portion of this game be sure to read over the PvP Asset Require section down below. 
+To understand all of the assets required to actually compete in the PvP portion of this game be sure to read over the PvP Asset Require section up above
 
 ## AI Based Brawler
 
