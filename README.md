@@ -100,6 +100,10 @@ The Brawl-o-Seum is effectively a crafting membership key. These limited number 
 # The PvP Phase
 ## Beta Testing
 
+### How to Play 
+
+the game is fairly straight and deceptively simple. But the simplicity is an illusion as there is a tremendous amount of depth and strategic choices that the players have to make. Like Texas Hold'em poker the game revolves around are your two cards of a higher value than your opponents two cards. Whether you decide to state that they are is depending on many factors. In all, each round you play involves up to seven strategic decisions. 
+
 There are currently two announced PvP feature in active development at this time. The first version of PvP feature utilizes a new card battler mechanic exclusive to Blockchain Brawlers. It was designed and balanced by [Richard Garfield](https://en.wikipedia.org/wiki/Richard_Garfield), the creator of [Magic: The Gathering.](https://en.wikipedia.org/wiki/Magic:_The_Gathering) 
 
 This feature is in varying states of progress and the as noted above the WebGL version is available to be played in a testing environment right now. There is no wallet or cost to playing this test version. To access it directly you can go [here](https://play-best.babrawlers.com). The only requirement is you play on your desktop in a Chrome, Safari or Firefox browser. Others browsers may work, but are not officially supported. Mobile web is not currently supported. 
