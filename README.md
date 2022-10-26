@@ -9,7 +9,8 @@ _NOTE: This is a living document. Please check regularly for updates!_ *For answ
 - [The Phases of The Game](#the-phases-of-the-game)
 -  [The Mining Phase](#the-mining-phase)
 - [The Crafting Phase: BRAWL-O-SEUM](#the-crafting-phase-brawl-o-seum) 
-- [The PvP Phase](#the-pvp-phase) 
+- [The PvP Phase](#the-pvp-phase)
+	- [How to Play](#how-to-play)	 
 	- [Beta Testing](#beta-testing) 
 	- [AI Based Brawler](#ai-based-brawler)
 
