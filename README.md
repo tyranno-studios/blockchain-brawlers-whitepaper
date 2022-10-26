@@ -98,11 +98,12 @@ The Crafting Phase began on September 21st, 2022. If a player is in possession o
 The Brawl-o-Seum is effectively a crafting membership key. These limited number of players will be in charge of producing content for the masses that want to enter the game. There are only 1,100 "B-o-S" NFT crafting passes in existence. They come in two levels of rarity. The Diamond version allows for 25 single asset packs to be crafted within a 24 hour window. The Platinum version allows for 10 single asset packs to be crafted a day. To learn more about how the Brawl-o-Seum works and review the level designs that benefit from mutable data, here is a comprehensive [Brawl-o-Seum level design and overview.](https://medium.com/blockchain-brawlers/a-deep-dive-into-brawl-o-seum-leveling-design-740efd3e780a) To understand the user interface flow you can [read this article.](https://medium.com/blockchain-brawlers/blockchain-brawlers-brawl-o-seum-crafting-walkthrough-b0a514046ffb) 
 
 # The PvP Phase
-## Beta Testing
 
-### How to Play 
+## How to Play 
 
 the game is fairly straight and deceptively simple. But the simplicity is an illusion as there is a tremendous amount of depth and strategic choices that the players have to make. Like Texas Hold'em poker the game revolves around are your two cards of a higher value than your opponents two cards. Whether you decide to state that they are is depending on many factors. In all, each round you play involves up to seven strategic decisions. 
+
+## Beta Testing
 
 There are currently two announced PvP feature in active development at this time. The first version of PvP feature utilizes a new card battler mechanic exclusive to Blockchain Brawlers. It was designed and balanced by [Richard Garfield](https://en.wikipedia.org/wiki/Richard_Garfield), the creator of [Magic: The Gathering.](https://en.wikipedia.org/wiki/Magic:_The_Gathering) 
 
