@@ -53,7 +53,7 @@ Our experiences always are built with the gamer in mind. We start with the playe
 
 There are many challenges in working towards mass market adoption, but in Blockchain Brawlers we do not believe access and usability should be some of those hurdles. 
 
-Blockchain Brawler players will be able to play and transact on the chain and marketplace of choice. Making our game the most user friendly and navigable game in the world is a stated goal we think we are on the path to accomplish. 
+Blockchain Brawler players will be able to play and transact on the chain and marketplace of choice. Making our game the most user friendly and navigable game in the world is a stated goal we think we are on the path to do so. 
 
 To reach our player adoption goals, Blockchain Brawlers has to be very familiar to players of traditional games. This is why when you immerse yourself into our "Brawlerverse" it will feel like every non-crypto game you have played before.
 
