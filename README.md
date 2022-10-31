@@ -61,7 +61,7 @@ Currently available to be played in a browser we will soon add a downloadable MA
 
 # Player vs. Player Asset Requirements
 
-To get started and sign into the game you will need a have a supported wallet. This will be "your account" , where all in game progress and player owned assets are stored and is the consumer interface into the game. We recommend all players use WAX Cloud Wallet. There are many benefits for our WAX Cloud Wallet users, such as account boosting that removes the need for CPU resources per transaciton. To sign up for a WCW, go [here](https://all-access.wax.io/)
+To get started and sign into the game you will need a have a supported wallet. This will be "your account" , where all in game progress and player owned assets are stored. The wallet is the consumer interface into the game. We recommend all players use WAX Cloud Wallet. There are many benefits for our WAX Cloud Wallet users, such as account boosting that removes the need for CPU resources per transaciton. To sign up for a WCW, go [here](https://all-access.wax.io/)
 
 In the PvP mode coming out Fall '22 you will take part in an original head to head card game. In order to do this you will need twelve items. You must have a Series 1 Brawler NFT, some playing cards(also NFTs), and the requisite set of moves (also NFTs) of your own choosing. 
 
