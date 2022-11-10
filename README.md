@@ -80,11 +80,17 @@ Must Haves:
 
 You can upgrade these moves by acquiring the proper materials for the upgrade recipe. All requirements for upgrading your assets can be found in the game. There are 44 moves in all. There are 19 Attacks, 11 Taunts and 14 Finishing moves ranging from Common through Legendary. Players will always be required to play with this base of 12 items. How you updgrade and increase your arsenal of moves is up to you. The game does allow to set up multiple loadouts for a higher level of collecting and personalization. 
 
-To make getting started easier "Starter Packs" are available to be bought in game, on the vIRL Marketplace and on OpenSean. These bundles all of the above listed required components. To buy them using WAXP go [here](https://play.bcbrawlers.com/marketplace?schemaName=pack&search=Blockchain+Brawlers+Starter+Pack) and to buy themn using ETH go [here](https://opensea.io/assets/ethereum/0xd1ea531c9bad17909c8ed73ae5bb0265a31113ff/1099832022785/)  
+To make getting started easier "Starter Packs" are available to be bought in game, on the vIRL Marketplace and on OpenSean. These bundles all of the above listed required components. To buy them using WAXP go [here](https://play.bcbrawlers.com/marketplace?schemaName=pack&search=Blockchain+Brawlers+Starter+Pack) and to buy them using ETH go [here](https://opensea.io/assets/ethereum/0xd1ea531c9bad17909c8ed73ae5bb0265a31113ff/1099832022785/)  
 
-## Where to Take Part in the PvP Phase when it launches
+## Where to Take Part in the PvP Phase(s) 
 
 In order to participate in the PvP modes in Blockchain Brawlers just visit the site [play.bcbrawlers.com](https://play.bcbrawlers.com/) and from there the onboarding into the user experience is self-explanatory.  
+
+Coming in early 2023 - Brawl 4 All! This is a mode that will allow players to enter one of their Brawlers into a Royal Rumble style competition. The match will be 100% AI driven, but the stats per entrant will be an aggregation of all qualifying NFTs the players possess. In all, fourteen different statistical categories will comprise each competitor. This will include obvious traits such as hleath, speed, intelligence. It will also include statistical values such as lady luck, evasion, to hit, crit damage, crit rate, defense, crit damage redux et al. 
+
+In this mode 40 competitors will battle to try and win the King of the Ring competition. Each match will start with 8 Brawlers entering at once and a new competitor streaming in every 15 seconds. Starting and entrance order will be bnased on Luck. If you are the last man standing you win a bevvy of prizes. Players can choose to boost their Brawler heading into the competition, but be careful 33% of the time their will be post match random "boost" testing. If you get caught you are DQ'd. 
+
+Brawl 4 All is currently being developed by developer Onessus, creators of HodlGod and will be out in Q1 2023. 
 
 # The Phases of The Game
 ## The Mining Phase
@@ -95,7 +101,9 @@ Once the token inventory was exhausted the ability to mine the currency via this
 ## The Crafting Phase: BRAWL-O-SEUM
 The Crafting Phase began on September 21st, 2022. If a player is in possession of a [Brawl-o-Seum](https://wax.atomichub.io/market?collection_name=bcbrawlers&order=asc&schema_name=land&sort=price&symbol=WAX) NFT they are able to utilize $BRWL tokens to craft every asset required to play every version of PvP that does or will exist in perpetuity. 
 
-The Brawl-o-Seum is effectively a crafting membership key. These limited number of players will be in charge of producing content for the masses that want to enter the game. There are only 1,100 "B-o-S" NFT crafting passes in existence. They come in two levels of rarity. The Diamond version allows for 25 single asset packs to be crafted within a 24 hour window. The Platinum version allows for 10 single asset packs to be crafted a day. To learn more about how the Brawl-o-Seum works and review the level designs that benefit from mutable data, here is a comprehensive [Brawl-o-Seum level design and overview.](https://medium.com/blockchain-brawlers/a-deep-dive-into-brawl-o-seum-leveling-design-740efd3e780a) To understand the user interface flow you can [read this article.](https://medium.com/blockchain-brawlers/blockchain-brawlers-brawl-o-seum-crafting-walkthrough-b0a514046ffb) 
+The Brawl-o-Seum is effectively a crafting membership key. A limited number of players are in charge of producing content for the masses that want to enter the game. There are only 1,100 "B-o-S" NFT crafting passes in existence. They come in two levels of rarity. The Diamond version allows for 25 single asset packs to be crafted within a 24 hour window. The Platinum version allows for 10 single asset packs to be crafted a day. To learn more about how the Brawl-o-Seum works and review the level designs that benefit from mutable data, here is a comprehensive [Brawl-o-Seum level design and overview.](https://medium.com/blockchain-brawlers/a-deep-dive-into-brawl-o-seum-leveling-design-740efd3e780a) To understand the user interface flow you can [read this article.](https://medium.com/blockchain-brawlers/blockchain-brawlers-brawl-o-seum-crafting-walkthrough-b0a514046ffb) 
+
+To purchase a BoS with ETH go [here](https://sales.bcbrawlers.com/) and to purchase a BoS using WAXP, go [here](https://wax.atomichub.io/market?collection_name=bcbrawlers&order=desc&schema_name=land&sort=created&symbol=WAX)
 
 # The PvP Phase
 
