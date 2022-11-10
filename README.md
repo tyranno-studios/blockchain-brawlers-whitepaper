@@ -27,6 +27,8 @@ _NOTE: This is a living document. Please check regularly for updates!_ *For answ
 - [Promotional Items](#promotional-items)
   * [Golden Battletags](#golden-battletags)
   * [Mining Badge](#mining-badge)
+  * [Owners Badge](#owners-badge)
+  * [Brawlerverse Badge](#brawlerverse-badge)
   
 # Our Beliefs
 
