@@ -57,7 +57,7 @@ Blockchain Brawler players will be able to play and transact on the chain and ma
 
 To reach our player adoption goals, Blockchain Brawlers has to be very familiar to players of traditional games. This is why when you immerse yourself into our "Brawlerverse" it will feel like every non-crypto game you have played before.
 
-Currently available to be played in a browser we will soon add a downloadable MAc and PC client via the Epic Store, along with a mobile app to be found in the App Store as well as on Google Play coming in late 2022. 
+Currently available to be played in a browser we will soon add a downloadable Mac and PC client via the Epic Store, along with a mobile app to be found in the App Store as well as on Google Play coming in Q1 2023. 
 
 # Player vs. Player Asset Requirements
 
