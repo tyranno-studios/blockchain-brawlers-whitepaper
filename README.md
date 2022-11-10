@@ -86,12 +86,6 @@ To make getting started easier "Starter Packs" are available to be bought in gam
 
 In order to participate in the PvP modes in Blockchain Brawlers just visit the site [play.bcbrawlers.com](https://play.bcbrawlers.com/) and from there the onboarding into the user experience is self-explanatory.  
 
-Coming in early 2023 - Brawl 4 All! This is a mode that will allow players to enter one of their Brawlers into a Royal Rumble style competition. The match will be 100% AI driven, but the stats per entrant will be an aggregation of all qualifying NFTs the players possess. In all, fourteen different statistical categories will comprise each competitor. This will include obvious traits such as hleath, speed, intelligence. It will also include statistical values such as lady luck, evasion, to hit, crit damage, crit rate, defense, crit damage redux et al. 
-
-In this mode 40 competitors will battle to try and win the King of the Ring competition. Each match will start with 8 Brawlers entering at once and a new competitor streaming in every 15 seconds. Starting and entrance order will be bnased on Luck. If you are the last man standing you win a bevvy of prizes. Players can choose to boost their Brawler heading into the competition, but be careful 33% of the time their will be post match random "boost" testing. If you get caught you are DQ'd. 
-
-Brawl 4 All is currently being developed by developer Onessus, creators of HodlGod and will be out in Q1 2023. 
-
 # The Phases of The Game
 ## The Mining Phase
 The Mining Phase opened on March 30th, 2022 and concluded on August 1st, 2022. This was were players where able to mine the 1 billion fungible [$BRWL tokens](https://wax.alcor.exchange/trade/brwl-brawlertoken_wax-eosio.token) if they possessed a [Series 1 Brawler NFT](https://wax.atomichub.io/market?collection_name=bcbrawlers&order=asc&schema_name=series1&sort=price&symbol=WAX) and a Ring. 
@@ -129,7 +123,11 @@ To understand all of the assets required to actually compete in the PvP portion 
 
 The additional announced PvP gamemode will be an AI based "King of the Ring" style competition called, "Brawl 4 All". This mode is being developed by Onessus of HodlGod fame and is being developed using the Unreal 5 engine. Forty players will sign up to compete with the brawler of their choice. The game will randomly select the first 8 players to start in the ring and one new Brawler will enter every 15 seconds. If a Brawler takes too much damage they will be unceramoniously tossed out of the ring over the top rope. This will eliminate them from the competition. The last man standing will win. 
 
-This mode is in active development and should be live before the end of the year. 
+Coming in early 2023 - Brawl 4 All! This is a mode that will allow players to enter one of their Brawlers into a Royal Rumble style competition. The match will be 100% AI driven, but the stats per entrant will be an aggregation of all qualifying NFTs the players possess. In all, fourteen different statistical categories will comprise each competitor. This will include obvious traits such as hleath, speed, intelligence. It will also include statistical values such as lady luck, evasion, to hit, crit damage, crit rate, defense, crit damage redux et al. 
+
+In this mode 40 competitors will battle to try and win the King of the Ring competition. Each match will start with 8 Brawlers entering at once and a new competitor streaming in every 15 seconds. Starting and entrance order will be bnased on Luck. If you are the last man standing you win a bevvy of prizes. Players can choose to boost their Brawler heading into the competition, but be careful 33% of the time their will be post match random "boost" testing. If you get caught you are DQ'd. 
+
+Brawl 4 All is currently being developed by developer Onessus, creators of HodlGod and will be out in Q1 2023. 
 
 # Promotional Items That Have Utility 
 
