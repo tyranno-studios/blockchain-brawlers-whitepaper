@@ -34,36 +34,36 @@ We believe that players wants total control over the assets they have acquired. 
 
 We believe that players deserve individual sovereignty with regard to the decision on what they can do with digital items in their possession. 
 
-We believe these rights are a fundamental and they are inalienable for game players in the world, independent of platform, genre, asset class, or socio-economic status. 
+We believe these rights are a fundamental and they are inalienable for all gamers, independent of platform, genre, asset class, or socio-economic status. 
 
-We believe that this level of control and authority will drive the mass adoption of a complimentary Web3 experience that does not only co-exists with standard gaming tenants, but will become table stakes for all players in the future.
+We believe that this level of control and authority will drive the mass adoption of a complimentary Web3 experience that does not only co-exists with standard gaming tenants, but will become table stakes for all games made in the future. This idealology will become the rule and not the exception. 
 
-We believe in building the best games for all gamers. We lead with objectively excellent entertainment. We aim to always validate a players use of their free time within the worlds we have built. 
+We believe in building the best games for all players. We lead with objectively excellent entertainment. We aim to always validate a players use of their free time within the worlds we have built. 
 
-We believe in leading by example. We are building a North Star that will lead the way to the benefit of every developer, publisher and gamer in the world. 
+We believe in leading by example. We are building a North Star that will show the way, to the benefit of every developer, publisher and gamer in the world. 
 
-We believe all of the ideals fully live and breathe inside Blockchain Brawlers. A truly great game, that just happens to be built on the blockchain 
+We believe all of the ideals fully live and breathe inside Blockchain Brawlers. A truly great game, that just happens to be built on the blockchain. 
     
 
 # Design Principles
 
 Blockchain Brawlers is a platform. It is a multiphase, multifaceted world where players come in and compete, contribute, commune and collaborate. 
 
-Our experiences always are built with the gamer in mind. We start with the player concerns and works backwards to a feature or product enhancement that resolves that point of tension or friction. By being so user journey focused, a clear and optimized path exists on how to move forward to the benefit of the greater good in the most expeditious way possible. 
+Our experiences always are built with the gamer in mind. We start with the player's ambitions and works backwards to a feature or product enhancement that reinforces that belief. By being ultimately user journey focused, a clear and optimized path exists on how to move forward to the benefit of the greater good in the most expeditious way possible. 
 
 There are many challenges in working towards mass market adoption, but in Blockchain Brawlers we do not believe access and usability should be some of those hurdles. 
 
-Blockchain Brawler players will be able to play and transact on the chain and marketplace of choice. Making our game the most user friendly and navigable game in the world is a stated goal we think we are on the path to do so. 
+Blockchain Brawlers players will be able to play and transact on the chain and marketplace of their own choosing. Making our game the most user friendly and navigable game in the world is a stated goal we think we are on the path to do so. 
 
 To reach our player adoption goals, Blockchain Brawlers has to be very familiar to players of traditional games. This is why when you immerse yourself into our "Brawlerverse" it will feel like every non-crypto game you have played before.
 
-Currently available to be played in a browser we will soon add a downloadable Mac and PC client via the Epic Store, along with a mobile app to be found in the App Store as well as on Google Play coming in Q1 2023. 
+Currently available to be played in a browser we will soon add a downloadable Mac and PC client via mass adoption distribution solutions, along with a mobile app availble in the App Store as well as on Google Play coming in 2023.  
 
 # Player vs. Player Asset Requirements
 
 To get started and sign into the game you will need a have a supported wallet. This will be "your account" , where all in game progress and player owned assets are stored. The wallet is the consumer interface into the game. We recommend all players use WAX Cloud Wallet. There are many benefits for WAX Cloud Wallet users, such as account boosting that removes the need for CPU resources per transaciton. To sign up for a WCW, go [here](https://all-access.wax.io/)
 
-In the PvP mode coming out Fall '22 you will take part in an original head to head card game. In order to do this you will need twelve items. You must have a Series 1 Brawler NFT, some playing cards(also NFTs), and the requisite set of moves (also NFTs) of your own choosing. 
+In the currenlty available PvP mode, designed by Richard Garfield (creator of Magic: The Gathering) you will take part in an original head to head card game. In order to do this you will need twelve items. You must have a Series 1 Brawler NFT, some playing cards(also NFTs), and the requisite set of moves (also NFTs) of your own choosing. 
 
 Below is an accounting of the minimum items you will need to wage war in the squared circle and where to go and acquire them. 
 
@@ -72,18 +72,15 @@ Must Haves:
 
 (1) Deck of playing cards numbered 1 thru 8. Go [here](https://wax.atomichub.io/market?collection_name=bcbrawlers&order=asc&schema_name=cards&sort=price&symbol=WAX) to acquire your eight deck cards
 
-
-
 (1) Common Attack move. Go [here](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.type=Attack&order=desc&schema_nam) to acquire a common Attack. You must always own at least one common attack
-
 
 (1) Taunt move. Go [here](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.type=Taunt&order=asc&schema_name=moves&sort=price&symbol=WAX) to acquire a common Taunt
 
 (1) Finisher move. Go [here](https://wax.atomichub.io/market?collection_name=bcbrawlers&data:text.type=Finishing%20Move&order=asc&schema_name=moves&sort=price&symbol=WAX) to acquire your common Finisher move 
 
-You can upgrade these moves by acquiring the proper materials for the upgrade recipe. All recipes for upgrading can be found in the game. There are 44 moves in all. There are 19 Attacks, 11 Taunts and 14 Finishing moves ranging from Common through Legendary. Players will always be required to play with this base of 12 items. How you updgrade and increase your arsenal of moves is up to you. The game does allow to set up multiple loadouts for a higher level of collecting and personalization. 
+You can upgrade these moves by acquiring the proper materials for the upgrade recipe. All requirements for upgrading your assets can be found in the game. There are 44 moves in all. There are 19 Attacks, 11 Taunts and 14 Finishing moves ranging from Common through Legendary. Players will always be required to play with this base of 12 items. How you updgrade and increase your arsenal of moves is up to you. The game does allow to set up multiple loadouts for a higher level of collecting and personalization. 
 
-To make getting started easier there will be "Starter Pack" bundles sold in game, on the vIRL Marketplace and on OpenSean. These bundle will be available on October 31st, 2022 and include all of the above listed required components. 
+To make getting started easier "Starter Packs" are available to be bought in game, on the vIRL Marketplace and on OpenSean. These bundles all of the above listed required components. To buy them using WAXP go [here](https://play.bcbrawlers.com/marketplace?schemaName=pack&search=Blockchain+Brawlers+Starter+Pack) and to buy themn using ETH go [here](https://opensea.io/assets/ethereum/0xd1ea531c9bad17909c8ed73ae5bb0265a31113ff/1099832022785/)  
 
 ## Where to Take Part in the PvP Phase when it launches
 
