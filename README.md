@@ -105,11 +105,11 @@ The Brawl-o-Seum is effectively a crafting membership key. A limited number of p
 
 To purchase a BoS with ETH go [here](https://sales.bcbrawlers.com/) and to purchase a BoS using WAXP, go [here](https://wax.atomichub.io/market?collection_name=bcbrawlers&order=desc&schema_name=land&sort=created&symbol=WAX)
 
-# The PvP Phase
+# The Richard Garfield Designed PvP Phase, now live. 
 
 ## How to Play 
 
-The currently available PvP feature in the game is fairly straight forward and deceptively simple. But the simplicity is an illusion as there is a tremendous amount of depth and strategic choices that the players have to make in order to win a round. Like Texas Hold'em poker, the game revolves around the question"are your two cards of a higher value than your opponents two cards"? Whether you decide to state that they are depends on many factors. In all, each round you play involves up to seven strategic decisions. To learn more about the rules of the game, go [here](https://discord.com/channels/907624301119819776/10102206534980896330)
+The currently available PvP feature in the game is fairly straight forward and deceptively simple. But the simplicity is an illusion as there is a tremendous amount of depth and strategic choices that the players have to make in order to win a round. Like Texas Hold'em poker, the game revolves around the question"are your two cards of a higher value than your opponents two cards"? Whether you decide to state that they are depends on many factors. In all, each round you play involves up to seven strategic decisions. To learn more about the rules of the game, go [here](https://medium.com/blockchain-brawlers/blockchain-brawlers-instruction-manual-e55d8a20d36f))
 
 ## Beta Testing
 
