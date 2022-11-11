@@ -173,7 +173,7 @@ That gear was as follows:
 
 There were several items that were given away or used as keys to grant access to sales and promotional activities. The below listed items no longer serve their original purpose and merely maintain sentimental value 
 
- #### [Golden Battletags](https://wax.atomichub.io/explorer/template/bcbrawlers/432795)
+ #### [Golden Battletags](https://wax.atomichub.io/explorer/template/bcbrawlers/432795) - this was originally given away to 90 select players to be able to purchase a Ric Flair legendary 1 of 1 Series 1 NFT Brawler for use in the Mining Phase. It future utility is non-existent, yet continues to be the punchline for many jokes told be insiders.
  
  #### [Mining Badge](https://wax.atomichub.io/market?collection_name=bcbrawlers&order=desc&schema_name=promo&sort=created&symbol=WAX)
  
