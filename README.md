@@ -15,12 +15,8 @@ _NOTE: This is a living document. Please check regularly for updates!_ *For answ
 	- [AI Based Brawler](#ai-based-brawler)
 
 - [Promotional Items That Have Utility](#promotional-items-that-have-utility)
-
-
-	[FREE TO TRY NFT](#free-to-try-nft)
-
-
-	[Pink Battletags](#pink-battletags)
+	- [FREE TO TRY NFT](#free-to-try-nft)
+	- [Pink Battletags](#pink-battletags)
 - [Deprecated Items That Have No Utility](#deprecated-items-that-have-no-utility)
   * [Rings](#rings)
   * [Gear](#gear)
