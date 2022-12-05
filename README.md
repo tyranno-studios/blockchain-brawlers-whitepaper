@@ -20,11 +20,11 @@ _NOTE: This is a living document. Please check regularly for updates!_ *For answ
 - [Deprecated Items That Have No Utility](#deprecated-items-that-have-no-utility)
   * [Rings](#rings)
   * [Gear](#gear)
-- [Promotional Items](#promotional-items)
-  * [Golden Battletags](#golden-battletags)
-  * [Mining Badge](#mining-badge)
-  * [Owners Badge](#owners-badge)
-  * [Brawlerverse Badge](#brawlerverse-badge)
+  * [Promotional Items](#promotional-items)
+	- [Golden Battletags](#golden-battletags)
+	- [Mining Badge](#mining-badge)
+	- [Owners Badge](#owners-badge)
+	- [Brawlerverse Badge](#brawlerverse-badge)
 
 # Our Beliefs
 
@@ -170,10 +170,10 @@ That gear was as follows:
 
 There were several items that were given away or used as keys to grant access to sales and promotional activities. The below listed items no longer serve their original purpose and merely maintain sentimental value
 
- #### [Golden Battle Tag](https://wax.atomichub.io/explorer/template/bcbrawlers/432795) - this was originally given away to 90 select players to be able to purchase a Ric Flair legendary 1-of-1 Series 1 NFT Brawler for use in the Mining Phase. Its future utility is non-existent, yet continues to be the punchline for many jokes told by insiders.
+- #### [Golden Battle Tag](https://wax.atomichub.io/explorer/template/bcbrawlers/432795) - this was originally given away to 90 select players to be able to purchase a Ric Flair legendary 1-of-1 Series 1 NFT Brawler for use in the Mining Phase. Its future utility is non-existent, yet continues to be the punchline for many jokes told by insiders.
 
- #### [Mining Badge](https://wax.atomichub.io/explorer/template/bcbrawlers/551364) - in recognition for supporting us from the beginning.
+- #### [Mining Badge](https://wax.atomichub.io/explorer/template/bcbrawlers/551364) - in recognition for supporting us from the beginning.
 
- #### [Owners Badge](https://wax.atomichub.io/explorer/template/bcbrawlers/617470) - distributed to everyone holding an NFT from the official Blockchain Brawlers Collection on Nov. 1st 2022
+- #### [Owners Badge](https://wax.atomichub.io/explorer/template/bcbrawlers/617470) - distributed to everyone holding an NFT from the official Blockchain Brawlers Collection on Nov. 1st 2022
 
- #### [Brawlerverse Badge](https://wax.atomichub.io/explorer/template/bcbrawlers/617511) - distributed to members of the Brawlerverse Cast (Season 1)
+- #### [Brawlerverse Badge](https://wax.atomichub.io/explorer/template/bcbrawlers/617511) - distributed to members of the Brawlerverse Cast (Season 1)
