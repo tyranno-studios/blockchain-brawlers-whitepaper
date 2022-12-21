@@ -114,7 +114,7 @@ This feature is in varying states of progress and the as noted above the WebGL v
 
 The intention of the current PvP feature is akin to traditional esports gaming and skill based component. This is not a "Pay to Win" game. The best players will be the ones with the best execution of a strategy relative to the decisions of their opponent. 
 
-At some point near the end of 2022 "League Play" and banding of players tied to [MMR rankings](https://en.wikipedia.org/wiki/Matchmaking_(video_games) will be in place and drive the activities of global competitions that will be streamed and come replete with top tier prizing. 
+On December 18th "League Play" kicked off in the form of Season 1 of B.E.S.T (Brawlers Esports Series Tournament) tied to [MMR rankings](https://en.wikipedia.org/wiki/Matchmaking_(video_games) will be in place and drive the activities of global competitions that will be streamed and come replete with top tier prizing. The winnner of the very first tournament Was "Snow and Surf" the 22nd seed beating Gurdy the 5th seed 3-1 in the finals. 
 
 For a gameplay rules overview [go here](https://medium.com/blockchain-brawlers/gameplay-explained-how-does-the-pvp-card-game-designed-by-richard-garfield-work-e9b83e1c407e). For a video tutorial of how to play [go here](https://medium.com/blockchain-brawlers/blockchain-brawlers-summer-block-party-week-2-brings-the-heat-with-pvp-gameplay-first-look-d9f714b2237f). 
 
