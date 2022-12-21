@@ -139,12 +139,6 @@ Coming in November of 2022 Tyranno will be widely distrbuting an NFT that will s
 
 At any point during the ten day free trial period there will be an incentive available for these players to convert into playing the fully featured PvP game where play and rewards are no longer restricted.  
 
- ## [Pink Battletags]([https://wax.atomichub.io/explorer/template/bcbrawlers/432795](https://wax.atomichub.io/explorer/template/bcbrawlers/401084))
- 
- Pink Battletags were given away to players for various reasons, mostly to recognize early support of the game. There are 155 in total ciruclation. Every month there is a random give away of the in game fungible token $BRWL to a limited number of players. There is also special whitelist inclusions and certain swag kit give aways these holders are eligible to receive. This program will come to an end December 31st, 2022. 
-
-
-
 # Deprecated Items That Have No Utility 
 *The below listed items will have no further in game use, as a result their value may be greatly diminished.*
 
@@ -180,5 +174,10 @@ There were several items that were given away or used as keys to grant access to
  #### [Owners Badge](https://wax.atomichub.io/explorer/template/bcbrawlers/617470)
  
  #### [Brawlerverse Badge](https://wax.atomichub.io/explorer/template/bcbrawlers/617511)
+ 
+ #### [Pink Battletags]([https://wax.atomichub.io/explorer/template/bcbrawlers/432795](https://wax.atomichub.io/explorer/template/bcbrawlers/401084))
+ 
+Pink Battletags were given away to players for various reasons, mostly to recognize early support of the game. There are 154 in total ciruclation. Every month there was a random give away of the in game fungible token $BRWL to a limited number of players. There is also special whitelist inclusions and certain swag kit give aways these holders are eligible to receive. This program will came to an end December 20th, 2022. 
+
 
  
