@@ -176,7 +176,7 @@ There were several items that were given away or used as keys to grant access to
  
  #### [Pink Battletags]([https://wax.atomichub.io/explorer/template/bcbrawlers/432795](https://wax.atomichub.io/explorer/template/bcbrawlers/401084))
  
-Pink Battletags were given away to players for various reasons, mostly to recognize early support of the game. There are 154 in total ciruclation. Every month there was a random give away of the in game fungible token $BRWL to a limited number of players. There is also special whitelist inclusions and certain swag kit give aways these holders are eligible to receive. This program will came to an end December 20th, 2022. 
+Pink Battletags were given away to players for various reasons, mostly to recognize early support of the game. There are 154 in total ciruclation. Every month there was a random give away of the in game fungible token $BRWL to a limited number of players. There was also special whitelist inclusions and certain swag kit give aways that these holders were eligible to receive. This program will came to an end December 20th, 2022. 
 
 
  
