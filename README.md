@@ -17,7 +17,7 @@ _NOTE: This is a living document. Please check regularly for updates!_ *For answ
 - [Promotional Items That Have Utility](#promotional-items-that-have-utility)
 
 
-	[FREE TO TRY NFT](#free-to-try-nft)
+	[FREE TO TRY NFT](#testing-grounds-a-free-to-try-offer)
 	
 - [Deprecated Items That Have No Utility](#deprecated-items-that-have-no-utility)
   * [Rings](#rings)
